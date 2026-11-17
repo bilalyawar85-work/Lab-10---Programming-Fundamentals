@@ -1,0 +1,4 @@
+Customer Name: Bilal
+Account Number: 2501
+Withdrawal Amount: 10000.00
+-------------------------
